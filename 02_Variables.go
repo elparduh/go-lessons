@@ -1,4 +1,4 @@
-package main
+/*package main
 
 import "fmt"
 
@@ -14,3 +14,4 @@ func main() {
 	fmt.Println(age)
 	fmt.Println(lastName)
 }
+*/
